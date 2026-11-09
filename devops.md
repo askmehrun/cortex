@@ -4,3 +4,4 @@ Operating Linux systems at scale: managing services, networking, storage, automa
 
 - [systemd Services](devops/systemd-services.md)
 - [Overleaf Password Reset](devops/overleaf-password-reset.md)
+- [OpenProject Password Reset](devops/openproject-password-reset.md)
